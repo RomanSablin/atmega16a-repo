@@ -1,1 +1,1 @@
-# ddr3_artix7_test
+# Atmega16A repository
